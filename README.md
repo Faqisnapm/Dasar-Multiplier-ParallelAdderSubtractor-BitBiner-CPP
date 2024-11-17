@@ -1,5 +1,5 @@
 # Dasar-Multiplier-ParallelAdderSubtractor-BitBiner-C++
-Library External: (Raylib) 
+Dependencies: (Raylib) 
 https://github.com/raysan5/raylib
 
 Untuk tutorial pemasangan library tersebut ada pada tutorial berikut: 
