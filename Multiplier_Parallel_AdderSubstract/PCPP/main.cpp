@@ -1,7 +1,7 @@
 /*
-Dibuat Oleh: Faqisna PM.
+Dibuat Oleh: Faqisna PM & Yogi Andre A.
 Note: Masih terdapat memory leak, kemungkinan masalah load dan unload texture pada "obj_Xor.hpp"
-Library External: Raylib
+Dependencies: Raylib
 */
 
 #include <iostream>
